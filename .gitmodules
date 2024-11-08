@@ -1,0 +1,15 @@
+[submodule "prjct2"]
+	path = prjct2
+	url = https://github.com/operate-ee/prjct2.git
+[submodule "prjct3"]
+	path = prjct3
+	url = https://github.com/operate-ee/prjct3.git
+[submodule "prjct4"]
+	path = prjct4
+	url = https://github.com/operate-ee/prjct4.git
+[submodule "prjct5"]
+	path = prjct5
+	url = https://github.com/operate-ee/prjct5.git
+[submodule "prjct6"]
+	path = prjct6
+	url = https://github.com/operate-ee/prjct6.git
